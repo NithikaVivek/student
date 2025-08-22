@@ -66,7 +66,7 @@ comments: True
 ![OOP Snippet]({{site.baseurl}}/images/tools/oop snippet.png)
 
 **Commit History**  
-*These screenshots capture parts of my Git commit history, highlighting iterative changes, bug fixes, and feature additions to the project over time.*  
+*These screenshots capture parts of my Git commit history, highlighting iterative changes, bug fixes, and feature additions to the project over time. These are only some of the commits I made, others are present on the repo: https://github.com/illuminati1618/pages-thinkers-yash*  
 ![Commit History2]({{site.baseurl}}/images/tools/commit3.png)  
 ![Commit History2]({{site.baseurl}}/images/tools/commit2.png)  
 ![Commit History1]({{site.baseurl}}/images/tools/commit1.png)
@@ -108,7 +108,8 @@ comments: True
 - Getting the RPS Play function to be recognized in the console  
 - Fixing flowchart paths in lesson, as well as using HTML to code a flowchart with graphics  
 - Creating an OOP object that actually animated without using DOM  
-
+------
+OOP
 **Original OOP Implementation**  
 *This screenshot shows the flawed version of my OOP code where animations did not trigger properly and the design was inconsistent.*  
 ![Original OOP Implementation]({{site.baseurl}}/images/tools/OOP Failed.png)
@@ -116,3 +117,15 @@ comments: True
 **Fixed OOP Implementation**  
 *This screenshot shows the corrected OOP version with working animations and a cleaner interface, representing a major debugging milestone.*  
 ![Fixed OOP Implementation]({{site.baseurl}}/images/tools/OOP fixed.png)
+------
+
+Layout
+------
+**Original Layout**
+*This screenshot shows screenshot where the main part of the game covers the header and the footer*  
+![Original OOP Implementation]({{site.baseurl}}/images/tools/rps doesn't work.png)
+
+**Fixed Layout**
+*This screenshot shows the fixed version after changing the layout and adding scrolling.*  
+![Original OOP Implementation]({{site.baseurl}}/images/tools/fixed layout.png)
+
