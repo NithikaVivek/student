@@ -1,19 +1,22 @@
 ---
 layout: opencs
-title: John Tab 
+title: Nithika
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Nithika.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
-| Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
-| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
-| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
+| Scrum Master | Yash     | https://github.com/illuminati1618/yash_2026           | upstream (OCS fork)   | yash_2026   |
+| Assistance Scrum | Nithika     | https://github.com/NithikaVivek/student           | downstream (fork)   | student   |
+| Scrummer     | Saanvi    | https://github.com/saanvid270/student            | downstream (fork)     | student   |
+| Scrummer     | Eshika | github.com/esh/student         | downstream (fork)     | student   |
+| Scrummer     | Mihir    | https://github.com/Hypernova101/MihirCSA        | downstream (fork)     | student   |
+| Scrummer     | Ansh    | https://github.com/magic005/student          | downstream (fork)     | student   |
+
 
 
 ## Links to Learning
