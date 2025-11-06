@@ -15,7 +15,9 @@ type: issues
 One of the most exciting aspects of Sprint 3 wasn't just adding the LinkedIn button—it was creating a **real, verifiable credential** that students can add to their professional profiles under **Open Coding Society's name**.
 
 When students click "Add to LinkedIn," their certification appears like this:
+
 <img src="{{ site.baseurl }}/images/sprint3_linkedin_ex.png" alt="RPS Commit">
+
 
 ```
 Computer Science Portfolio - Full Stack Development

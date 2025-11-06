@@ -16,7 +16,9 @@ type: issues
 - Score: 25/42
 - Primary Weakness Areas: Loop Logic, Boolean Expressions, Array Manipulation, Recursion
 
-<img src="{{ site.baseurl }}/images/Accuracy vs Unit.png" alt="Accuracy vs Unit">
+<img src="{{ site.baseurl }}/images/Accuracy vs. Unit.png" alt="Accuracy vs Unit">
+
+
 <img src="{{ site.baseurl }}/images/Performance by Unit.png" alt="Performance by Unit">
 
 | Unit | Total Questions | Correct | Wrong | Accuracy | Focus Areas |

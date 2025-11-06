@@ -78,6 +78,7 @@ class Scissors extends GameObject {
    rock.rotate(45).setBorder('3px solid gold').setWidth(120);
    ```
 <img src="{{ site.baseurl }}/images/rps1.png" alt="RPS">
+
 <img src="{{ site.baseurl }}/images/rps_commit.png" alt="RPS Commit Example">
 
 
