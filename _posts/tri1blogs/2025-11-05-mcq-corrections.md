@@ -16,6 +16,17 @@ type: issues
 - Score: 25/42
 - Primary Weakness Areas: Loop Logic, Boolean Expressions, Array Manipulation, Recursion
 
+<img src="{{ site.baseurl }}/images/Accuracy vs Unit.png" alt="Accuracy vs Unit">
+<img src="{{ site.baseurl }}/images/Performance by Unit.png" alt="Performance by Unit">
+
+| Unit | Total Questions | Correct | Wrong | Accuracy | Focus Areas |
+|------|----------------|---------|-------|----------|-------------|
+| Unit 1: Primitives | 7 | 6 | 1 | 85.7% | Strong performance overall |
+| Unit 2: Control Structures | 12 | 7 | 5 | 58.3% | Review loops and conditionals |
+| Unit 3: OOP | 6 | 4 | 2 | 66.7% | Practice class design |
+| Unit 4: Arrays/ArrayLists | 17 | 8 | 9 | 47.1% | Focus on traversals & recursion |
+
+
 ---
 
 ## Q2: Compound Boolean Expression
