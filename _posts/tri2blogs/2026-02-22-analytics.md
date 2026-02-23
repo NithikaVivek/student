@@ -58,5 +58,6 @@ Planning became something I genuinely valued rather than something I skipped. Ma
 <img src="{{ site.baseurl }}/images/commit1.png" alt="Commit">
 <img src="{{ site.baseurl }}/images/commit2.png" alt="Commit">
 <img src="{{ site.baseurl }}/images/analytics.png" alt="Analytics">
+<img src="{{ site.baseurl }}/images/analytics3.png" alt="Analytics">
 <img src="{{ site.baseurl }}/images/natm blog post.png" alt="Blog Post">
 
