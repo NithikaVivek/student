@@ -51,3 +51,12 @@ When it comes to technical growth, the jump from barely understanding SQLite to 
 On the leadership and planning side, I also grew a lot. I became more intentional about keeping my team organized and making sure we were all moving in the same direction. When we were ideating on our passion project, there were a lot of different ideas floating around, and part of my role was helping us converge on something focused and achievable rather than getting lost in ambiguity. I tried to make sure conversations had clear takeaways, that we were checking in with the right people like Mr. Mort before committing to a direction, and that individual pieces of work were connecting into a coherent whole.
 
 Planning became something I genuinely valued rather than something I skipped. Making sure the final product is clear before writing code, looping in feedback early, and thinking about how the work fits into a bigger system — those habits made my contributions this trimester more useful and more sustainable than anything I built by just diving in.
+
+
+## Proof of Work
+
+<img src="{{ site.baseurl }}/images/commit1.png" alt="Commit">
+<img src="{{ site.baseurl }}/images/commit2.png" alt="Commit">
+<img src="{{ site.baseurl }}/images/analytics.png" alt="Analytics">
+<img src="{{ site.baseurl }}/images/natm blog post.png" alt="Blog Post">
+
