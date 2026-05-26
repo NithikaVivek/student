@@ -31,6 +31,10 @@ This pushed me to think more holistically about development. I had to consider h
 
 I also became better at explaining technical ideas clearly—an underrated but essential engineering skill.
 
+<img src="{{ site.baseurl }}/images/pr_history.png" alt="AP Prep">
+<img src="{{ site.baseurl }}/images/commit_history.png" alt="AP Prep">
+
+
 ### Key Takeaway
 
 **Large technical projects succeed through collaboration, not individual work alone.**

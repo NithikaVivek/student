@@ -21,6 +21,8 @@ Students could:
 
 At first glance, this may seem like a straightforward feature. However, Identity Forge changed how I approached programming.
 
+<img src="{{ site.baseurl }}/images/identity_forge.png" alt="AP Prep">
+
 Previously, I often focused on technical functionality:
 
 > “How do I make this work?”
