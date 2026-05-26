@@ -43,14 +43,6 @@ Technically, this project also strengthened my understanding of user flow and fr
 
 Identity Forge also improved my debugging abilities. Building interactive systems often meant troubleshooting issues that did not always have obvious solutions. Sometimes functionality would partially work but break under certain conditions, requiring me to trace through logic carefully and understand where the issue originated. Through repeated debugging, I became more patient and methodical. Instead of becoming frustrated when things failed, I learned to treat problems as opportunities to better understand the system.
 
-### Space for Analytics / Evidence of Work
-**Insert screenshots or analytics here:**
-- Identity Forge interface screenshots  
-- Account setup flow diagrams  
-- Avatar/world customization examples  
-- Evidence of onboarding completion metrics  
-- Code snippets or frontend logic examples
-
 ---
 
 # Developing the Dynamic Panel System
@@ -64,14 +56,6 @@ One major challenge was ensuring that information entered by the user remained c
 The panel also taught me the importance of scalability. Because it needed to change between levels, I could not simply hard-code every interaction individually. Instead, I had to think more abstractly about how systems could adapt dynamically. This experience strengthened my problem-solving skills because it encouraged me to build more flexible technical solutions.
 
 Perhaps most importantly, this project helped me better understand that software systems are interconnected. Every feature depends on other features working correctly. I learned that successful technical work often comes from understanding relationships between systems rather than focusing only on isolated pieces of code.
-
-### Space for Analytics / Evidence of Work
-**Insert evidence here:**
-- Screenshots of the panel across multiple levels  
-- User information display examples  
-- Point accumulation system examples  
-- Technical diagrams or workflow screenshots  
-- User testing feedback or metrics
 
 ---
 
@@ -102,7 +86,7 @@ I believe this experience will be especially valuable in the future because AI s
 More importantly, this experience helped me realize that technical growth often happens when stepping outside one’s comfort zone. Even though I initially struggled with the setup process, overcoming those challenges helped me become more confident in my ability to learn unfamiliar technologies independently.
 
 ### Analytics / Evidence of Work
-<img src="{{ site.baseurl }}/images/analytics_tri3" alt="Analytics">
+<img src="{{ site.baseurl }}/images/analytics_tri3.png" alt="Analytics">
 
 ---
 
