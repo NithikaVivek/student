@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Capstone Portfolio Blog
-description: Capstone Portfolio Blog
+title: Analytics and Technical Reflection
+description: Analytics and Technical Reflection
 permalink: /sprint/9/technical-reflection
 breadcrumb: true
 toc: true
